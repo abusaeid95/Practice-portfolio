@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+body h1{
+    font-size: 50px;
+}
+.abusaeid{
+ color: orange;
+}
+.uptext{
+    text-align: justify;
+    text-align: left;
+}
+.HireMe{
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: linear-gradient(to right, rgb(255, 0, 106) , rgba(255, 0, 64, 0.748));
+    text-decoration: none;
+    font-weight: 800;
+    height: 20px;
+    width: 100px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.mainup{
+    display: flex;
+}
+.main-half{
+    width: 50%;
+        /* float: left; */
+            margin-left: 5%;
+            padding-left: 5%;
+            margin-left: 5%;
+            padding-right: 5%;
+}
+.imgmy{
+    height: 90%;
+    width: 100%;
+}
+.contectfirst{
+    /* justify-content: center; */
+    align-items: center;
+}
+.exinfo{
+    margin-top: 5%;
+}
+.experience{
+    display: flex;
+    height: 500px;
+    margin-right: 5%;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+.baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
